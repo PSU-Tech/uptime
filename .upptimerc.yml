@@ -5,6 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: ЕТИС (студенческий) ПГНИУ
     url: https://student.psu.ru
+  - name: ЕТИС (основной) ПГНИУ
+    url: https://etis.psu.ru
   - name: etis-service
     url: https://psutech.damego.ru/api
 
