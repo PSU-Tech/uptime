@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2507,
-    "timeDay": 2507,
-    "timeWeek": 2507,
-    "timeMonth": 2507,
-    "timeYear": 2507,
+    "time": 4422,
+    "timeDay": 4422,
+    "timeWeek": 4422,
+    "timeMonth": 4422,
+    "timeYear": 4422,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/psutech.damego.ru.ico",
     "slug": "etis-service",
     "status": "down",
-    "uptime": "31.72%",
-    "uptimeDay": "31.72%",
-    "uptimeWeek": "31.72%",
-    "uptimeMonth": "31.72%",
-    "uptimeYear": "31.72%",
-    "time": 3420,
-    "timeDay": 3420,
-    "timeWeek": 3420,
-    "timeMonth": 3420,
-    "timeYear": 3420,
+    "uptime": "1.48%",
+    "uptimeDay": "1.48%",
+    "uptimeWeek": "1.48%",
+    "uptimeMonth": "1.48%",
+    "uptimeYear": "1.48%",
+    "time": 5103,
+    "timeDay": 5103,
+    "timeWeek": 5103,
+    "timeMonth": 5103,
+    "timeYear": 5103,
     "dailyMinutesDown": {
-      "2024-11-21": 0
+      "2024-11-21": 6
     }
   }
 ]
