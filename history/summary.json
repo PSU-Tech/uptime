@@ -4,19 +4,19 @@
     "url": "https://student.psu.ru",
     "icon": "https://icons.duckduckgo.com/ip3/student.psu.ru.ico",
     "slug": "etis-studencheskij-pgniu",
-    "status": "up",
-    "uptime": "61.72%",
-    "uptimeDay": "61.72%",
-    "uptimeWeek": "61.72%",
-    "uptimeMonth": "61.72%",
-    "uptimeYear": "61.72%",
+    "status": "down",
+    "uptime": "72.15%",
+    "uptimeDay": "72.15%",
+    "uptimeWeek": "72.15%",
+    "uptimeMonth": "72.15%",
+    "uptimeYear": "72.15%",
     "time": 3380,
     "timeDay": 3380,
     "timeWeek": 3380,
     "timeMonth": 3380,
     "timeYear": 3380,
     "dailyMinutesDown": {
-      "2024-11-21": 21
+      "2024-11-21": 22
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/etis.psu.ru.ico",
     "slug": "etis-osnovnoj-pgniu",
     "status": "down",
-    "uptime": "1.37%",
-    "uptimeDay": "1.37%",
-    "uptimeWeek": "1.37%",
-    "uptimeMonth": "1.37%",
-    "uptimeYear": "1.37%",
+    "uptime": "0.86%",
+    "uptimeDay": "0.86%",
+    "uptimeWeek": "0.86%",
+    "uptimeMonth": "0.86%",
+    "uptimeYear": "0.86%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-21": 36
+      "2024-11-21": 59
     }
   },
   {
@@ -45,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/psutech.damego.ru.ico",
     "slug": "etis-service",
     "status": "up",
-    "uptime": "64.08%",
-    "uptimeDay": "64.08%",
-    "uptimeWeek": "64.08%",
-    "uptimeMonth": "64.08%",
-    "uptimeYear": "64.08%",
+    "uptime": "74.62%",
+    "uptimeDay": "74.62%",
+    "uptimeWeek": "74.62%",
+    "uptimeMonth": "74.62%",
+    "uptimeYear": "74.62%",
     "time": 4225,
     "timeDay": 4225,
     "timeWeek": 4225,
