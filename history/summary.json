@@ -10,31 +10,51 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4422,
-    "timeDay": 4422,
-    "timeWeek": 4422,
-    "timeMonth": 4422,
-    "timeYear": 4422,
+    "time": 3618,
+    "timeDay": 3618,
+    "timeWeek": 3618,
+    "timeMonth": 3618,
+    "timeYear": 3618,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "ЕТИС (основной) ПГНИУ",
+    "url": "https://etis.psu.ru",
+    "icon": "https://icons.duckduckgo.com/ip3/etis.psu.ru.ico",
+    "slug": "etis-osnovnoj-pgniu",
+    "status": "down",
+    "uptime": "79.34%",
+    "uptimeDay": "79.34%",
+    "uptimeWeek": "79.34%",
+    "uptimeMonth": "79.34%",
+    "uptimeYear": "79.34%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-11-21": 0
+    }
   },
   {
     "name": "etis-service",
     "url": "https://psutech.damego.ru/api",
     "icon": "https://icons.duckduckgo.com/ip3/psutech.damego.ru.ico",
     "slug": "etis-service",
-    "status": "down",
-    "uptime": "1.48%",
-    "uptimeDay": "1.48%",
-    "uptimeWeek": "1.48%",
-    "uptimeMonth": "1.48%",
-    "uptimeYear": "1.48%",
-    "time": 5103,
-    "timeDay": 5103,
-    "timeWeek": 5103,
-    "timeMonth": 5103,
-    "timeYear": 5103,
+    "status": "up",
+    "uptime": "0.66%",
+    "uptimeDay": "0.66%",
+    "uptimeWeek": "0.66%",
+    "uptimeMonth": "0.66%",
+    "uptimeYear": "0.66%",
+    "time": 4225,
+    "timeDay": 4225,
+    "timeWeek": 4225,
+    "timeMonth": 4225,
+    "timeYear": 4225,
     "dailyMinutesDown": {
-      "2024-11-21": 6
+      "2024-11-21": 20
     }
   }
 ]
