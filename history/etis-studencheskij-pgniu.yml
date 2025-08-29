@@ -1,7 +1,7 @@
 url: https://student.psu.ru
-status: up
-code: 200
-responseTime: 2771
-lastUpdated: 2025-08-28T23:22:32.338Z
+status: down
+code: 400
+responseTime: 3738
+lastUpdated: 2025-08-29T18:33:16.095Z
 startTime: 2024-11-21T13:18:22.754Z
 generator: Upptime <https://github.com/upptime/upptime>
